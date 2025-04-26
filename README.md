@@ -14,7 +14,7 @@ A client application for interacting with Blender through the Model Context Prot
 
 ### Prerequisites
 
-- Node.js 18+ and pnpm
+- Node.js and pnpm
 - Blender with MCP server running
 - Firebase Genkit MCP
 
